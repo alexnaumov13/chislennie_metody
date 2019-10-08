@@ -1,1 +1,2 @@
 # trajectory
+# chislennie_metody
